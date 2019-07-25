@@ -1,2 +1,2 @@
 # postgres
-postgresql + pgpool
+postgresql + pgpool构建postgres集群
