@@ -31,7 +31,8 @@ cat /etc/hosts
 ## 执行安装脚本
 postgresql：psql_install.sh
 
-pgpool：pgpool_install.sh ~~在安装pgpool时，注意修改pgpool配置。master和slave相反~~
+pgpool：pgpool_install.sh 
+~~在安装pgpool时，注意修改pgpool配置。master和slave相反~~
 
 ## 启动postgresql服务。
 `/etc/init.d/postgresql-9.6 start`
